@@ -1,7 +1,7 @@
 <?php include('partials/header.php') ?>
 
   <div class="global-content pt-4 pl-4">
-    <h1 class="text-xl font-bold text-gray-900">
+    <h1 class="text-xl font-bold text-yellow-900">
       Home Page
     </h1>
   </div>

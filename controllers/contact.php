@@ -1,3 +1,3 @@
 <?php
 
-  require 'views/contact.view.php';
+  view('contact.view.php', ['page_title' => 'Contact Page']);

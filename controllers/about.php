@@ -1,3 +1,3 @@
 <?php
 
-  require 'views/about.view.php';
+  view('about.view.php', ['page_title' => 'About Page']);

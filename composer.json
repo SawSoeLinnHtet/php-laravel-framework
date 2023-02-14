@@ -1,0 +1,17 @@
+{
+    "name": "hp/php-laravel-framework",
+    "autoload": {
+        "psr-4": {
+            "Hp\\PhpLaravelFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hazel",
+            "email": "hazeldoom520@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.66"
+    }
+}
